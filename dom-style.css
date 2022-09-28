@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+#box {
+	width: 400px;
+	height: 400px;
+	background-image: url("html.png");
+	background-size: 100% 100%;
+}
+button{
+	height: 50px;
+	width: 80px;
+	font-size: 30px;
+}
